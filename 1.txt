@@ -1,8 +1,11 @@
-lsita de la compra 
+lista de la compra 
 ---------------
 ejemplo1
 
+ejemplo2
+ejemplo 3
+
 
 ejemplo 5
-
+ ejemplo6
 
